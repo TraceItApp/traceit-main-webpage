@@ -1,3 +1,8 @@
+# Traceit 
+An online application which lets users pick and analyze clothing from various clothing brands
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
